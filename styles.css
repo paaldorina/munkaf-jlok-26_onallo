@@ -10,7 +10,7 @@ body{
     float: right;
 }
 
-/* menü hivatkozások stíluselemei */
+/* menï¿½ hivatkozï¿½sok stï¿½luselemei */
 
 #menu a,
 #menu a:link,
@@ -19,10 +19,11 @@ body{
     text-decoration: none;
 }
 #menu a:hover{
-    color: yellow;
+    color: red;
+    text-decoration: underline;
 }
 
-/* táblázat stíluselemek */
+/* tï¿½blï¿½zat stï¿½luselemek */
 
 table{
     border-collapse: collapse;
@@ -36,14 +37,14 @@ td.kiemelt{
     color: red;
 }
 
-/* ûrlap stíluselemek */
+/* ï¿½rlap stï¿½luselemek */
 
 #ajanlat_form p{
     font-weight: bold;
     margin-left: 20px;
 }
 
-/* szerkezeti stíluselemek */
+/* szerkezeti stï¿½luselemek */
 
 #fejlec{
     font-family: 'Nosifer', cursive;
